@@ -4,8 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Min Første HTML-side</title>
+    
 </head>
 <body>
+    <p>Dette er en tekst </p>
     <h1>Hej verden!</h1>
     <p>Dette er min første HTML-side.</p>
 </body>
